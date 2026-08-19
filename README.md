@@ -1,8 +1,11 @@
 # Carrinho-robô — Project-based Maker Lab (FIAP)
 
-Repositório do projeto do grupo ✏️ **[nome do grupo]** — Engenharia de Software, disciplina Project-based Maker Lab (Profª Dra. Gedeane G. S. Kenshima).
+Engenharia de Software, disciplina Project-based Maker Lab (Profª Dra. Gedeane G. S. Kenshima).
 
-**Integrantes:** ✏️ nome (RM), nome (RM), …
+**Integrantes:** 
+- Debora da Silva Amaral - RM 550412 
+- Eduardo Pielich - RM 99767 
+- Livia Namba Seraphim - RM 97819 
 
 ## O que é
 
@@ -64,4 +67,3 @@ O código parte do que foi apresentado nos slides 8 a 13; os acréscimos do grup
 - [x] Sensor ultrassônico integrado ao código
 - [ ] Testes incrementais registrados (`docs/testes.md`)
 - [ ] STL da V0.2 exportado para `/cad/stl`
-- [ ] ✏️
